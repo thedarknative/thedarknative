@@ -17,7 +17,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/golang-gopher.svg" alt="golang"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/git-original.svg" alt="Git"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="jenkins.svg" alt="jenkins"> <img height="48" src="img/kubernets.svg" alt="k8s"> <img height="48" src="img/azure.svg" alt="Azure"> <img height="48" src="img/aws.svg" alt="AWS"> <img height="48" src="img/terraform.svg" alt="Terraform"> <img height="48" src="img/cloudformation.svg" alt="Cloudformation"> <img height="48" src="img/azure-pipelines.svg" alt="Azure Pipeline"> <img height="48" src="img/aws-codepipeline.svg" alt="Codepipeline">
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/golang-gopher.svg" alt="golang"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/git-original.svg" alt="Git"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/jenkins.svg" alt="jenkins"> <img height="48" src="img/kubernets.svg" alt="k8s"> <img height="48" src="img/azure.svg" alt="Azure"> <img height="48" src="img/aws.svg" alt="AWS"> <img height="48" src="img/terraform.svg" alt="Terraform"> <img height="48" src="img/cloudformation.svg" alt="Cloudformation"> <img height="48" src="img/azure-pipelines.svg" alt="Azure Pipeline"> <img height="48" src="img/aws-codepipeline.svg" alt="Codepipeline">
 
 #### Connect With Me
 
