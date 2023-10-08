@@ -8,7 +8,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **CLOUTRA**
+- 🏢 I'm currently open to new opportunities
 - ⚙️ I use daily: `.py`, `.ps1`, `.yml`, `.sh`,  `.tf`
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Golang**, **Aws**, **Azure** & **k8s**
