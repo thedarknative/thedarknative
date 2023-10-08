@@ -3,8 +3,8 @@
 
 
 #### Now
-- :fire: Interested in DevOps, Cloud engineering and Machine Learning;
-- :calendar: Looking for contributing to python based and cloud native open source projects 
+- :fire: Interested in DevOps, Cloud engineering and Cyber Security;
+- :calendar: Looking for contributing to golang based and cloud native open source projects 
 
 #### Bio
 
