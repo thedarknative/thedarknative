@@ -13,7 +13,7 @@
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Golang**, **Aws**, **Azure** & **k8s**
 - 📫 Reach me: [twitter.com/thedarknative](https://twitter.com/thedarknative)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](https://docs.google.com/document/d/1ffw19641pDTPyb3Hey-PHusgNrCoSBM74lnGUheL9jg/edit?usp=sharing).
 
 #### My Current Stack
 
