@@ -3,12 +3,10 @@
 
 
 #### Now
-- :fire: Interested in DevOps, Cloud engineering and Cyber Security;
-- :calendar: Looking for contributing to golang based and cloud native open source projects 
+- :fire: Interested in DevOps, Cloud Engineering and Cloud Security;
+- :calendar: New to contributing to open source projects 
 
 #### Bio
-
-- 🏢 I'm currently open to new opportunities
 - ⚙️ I use daily: `.py`, `.ps1`, `.yml`, `.sh`,  `.tf`
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Golang**, **Aws**, **Azure** & **k8s**
